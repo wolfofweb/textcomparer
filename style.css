@@ -1,0 +1,23 @@
+.output {
+  border: 1px solid black;
+}
+textarea {
+  border-radius: 1rem;
+  resize: none;
+}
+#white svg {
+  color: white;
+  border: 1px solid black;
+}
+#red svg {
+  color: red;
+  border: 1px solid black;
+}
+#green svg {
+  color: green;
+  border: 1px solid black;
+}
+.output-container {
+  display: none;
+  margin-top: 2rem;
+}
