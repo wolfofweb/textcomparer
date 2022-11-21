@@ -1,6 +1,6 @@
 # textcomparer
 Website that will compare two txt files and find the differences between the two .txt files and highlight the changes between those files
-The hosted link to the website is https://www.wolfofweb.github.io/textcomparer/
+The hosted link to the website is https://wolfofweb.github.io/textcomparer/
 This website uses google's diff-match-patch Library to find the difference between the two texts.
 Diff-match-Patch library's predefined functions are used in this website and few functions are altered and hardcoded for gaining the desired result.
 The Home page of the website will look like the image below. It will accept two .txt files as the input
